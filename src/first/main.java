@@ -14,6 +14,7 @@ public class main {
 		//2 output a welcome msg
 		System.out.println("Hello" + personName);
 		System.out.println("Whats your number");
+		System.out.println("Whats your number");
 	}
 
 }
